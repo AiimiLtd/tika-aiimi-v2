@@ -1,5 +1,5 @@
 # maven='3.9.9'
-sudo apt install openjdk-21-jre-headless maven -y
+sudo apt install openjdk-21-jdk-headless openjdk-21-jre-headless maven -y
 # cd ~
 # [ -d .maven ] || mkdir .maven 
 # cd .maven 

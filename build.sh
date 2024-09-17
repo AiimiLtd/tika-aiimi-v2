@@ -1,1 +1,1 @@
-mvn clean install -DskipTests=true -Dcheckstyle.skip
+mvn clean install -DskipTests=true -Dcheckstyle.skip -Dossindex.skip -e
